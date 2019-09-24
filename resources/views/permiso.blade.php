@@ -1,0 +1,1 @@
+Sistema de permisos LM {{ $nombre }} {{ $slug }}
